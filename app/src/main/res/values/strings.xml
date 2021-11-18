@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">lesson_13</string>
+    <string name="test_text">Тестовый текст</string>
 </resources>
